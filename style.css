@@ -1,0 +1,16 @@
+.text {
+    text-align: center;
+    margin-top: 336px;
+}
+
+.buttons {
+    text-align: center;
+}
+
+button{ 
+    border-radius: 24px;
+    margin-left: 12px;
+    height: 36px;
+    width: 78px;
+    font-size: 16px;
+}
